@@ -20,7 +20,7 @@ int main (int argc, char **argv){
   for (int i = 0; i < ROWS; i++) {
     for (int j = 0; j < COLS; j++){
       cout << "Enter Element (" << i << "," << j << "): "<<endl;
-      cin >> a[i][j];
+      cin >> a[i][j]; //picks up 1 element
     }
   }
 
@@ -36,4 +36,5 @@ int main (int argc, char **argv){
    cout << endl;
   }
 
+  return 0;
 }
