@@ -1,6 +1,7 @@
 /*
 Katherine Fontan
 2290561
+luzfonta@chapman.edu
 Assignment 2 - zero both
 
 Implement a void function called zeroBoth that has two call-by- reference
@@ -32,6 +33,6 @@ int main (int argc, char **argv){
 void ZeroBoth (int& x, int& y){
   x = 0;
   y = 0;
-  
+
   return;
 }

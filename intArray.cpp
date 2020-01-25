@@ -1,6 +1,7 @@
 /*
 Katherine Fontan
 2290561
+luzfonta@chapman.edu
 Assignment 2- Int Array
 
 Write a program that will read up to ten nonnegative integers into an array

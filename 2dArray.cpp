@@ -1,6 +1,7 @@
 /*
 Katherine Fontan
 2290561
+luzfonta@chapman.edu
 Assignment 2- 2D Array
 
 Write code that will fill the array a (declared below) with numbers typed in
