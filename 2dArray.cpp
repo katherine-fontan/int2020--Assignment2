@@ -17,16 +17,14 @@ int main (int argc, char **argv){
   const int COLS = 5;
   int a[ROWS][COLS]; //five per line, 4 lines
 
+ cout << "Enter 5 numbers per line." << endl;
 //for loop to populate array
   for (int i = 0; i < ROWS; i++) {
     for (int j = 0; j < COLS; j++){
-      cout << "Enter Element (" << i << "," << j << "): "<<endl;
       cin >> a[i][j]; //picks up 1 element
     }
   }
-
-
-
+cout << endl;
 // for loop print 2d array
   for (int i = 0; i < ROWS; i++) {
     for (int j = 0; j < COLS; j++) {

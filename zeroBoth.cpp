@@ -25,7 +25,7 @@ int main (int argc, char **argv){
 
   ZeroBoth (number1, number2);
   cout<< "The values were set to zero." << endl;
-
+  cout << number1 << " and " << number2 << endl;
 
   return 0;
 }
