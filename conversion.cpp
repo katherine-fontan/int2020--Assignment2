@@ -15,7 +15,7 @@ double userInput (double& feet, double& inches);
 double convert(double feet, double inches, double& meters, double& centimeters);
 void output (double& meters, double& centimeter);
 
-int main (int argv, char **argc){
+int main (int argc, char **argv){
   //declare variable used
   double feet, inches, meters, centimeters;
 
