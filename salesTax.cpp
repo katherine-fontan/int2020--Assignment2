@@ -15,7 +15,7 @@ using namespace std;
 
 float addTax (float taxRate, float cost);
 
-int main (int argv, char **argc){
+int main (int argc, char **argv){
   float taxRate, cost;
   const int PERCENT = 100;
 
